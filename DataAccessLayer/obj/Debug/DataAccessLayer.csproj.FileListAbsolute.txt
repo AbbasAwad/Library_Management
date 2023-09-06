@@ -1,0 +1,6 @@
+E:\Windows Form Applocations\Labrary Managment\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Windows Form Applocations\Labrary Managment\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Windows Form Applocations\Labrary Managment\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+E:\Windows Form Applocations\Labrary Managment\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\Windows Form Applocations\Labrary Managment\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Windows Form Applocations\Labrary Managment\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

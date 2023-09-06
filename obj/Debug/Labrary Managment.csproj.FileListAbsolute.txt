@@ -1,0 +1,27 @@
+E:\Windows Form Applocations\Labrary Managment\bin\Debug\Labrary Managment.exe.config
+E:\Windows Form Applocations\Labrary Managment\bin\Debug\Labrary Managment.exe
+E:\Windows Form Applocations\Labrary Managment\bin\Debug\Labrary Managment.pdb
+E:\Windows Form Applocations\Labrary Managment\bin\Debug\DataBusinssLayer.dll
+E:\Windows Form Applocations\Labrary Managment\bin\Debug\Guna.UI.dll
+E:\Windows Form Applocations\Labrary Managment\bin\Debug\DataBusinssLayer.pdb
+E:\Windows Form Applocations\Labrary Managment\obj\Debug\Labrary Managment.csproj.AssemblyReference.cache
+E:\Windows Form Applocations\Labrary Managment\obj\Debug\Labrary Managment.csproj.SuggestedBindingRedirects.cache
+E:\Windows Form Applocations\Labrary Managment\obj\Debug\Labrary_Managment.Form1.resources
+E:\Windows Form Applocations\Labrary Managment\obj\Debug\Labrary_Managment.Properties.Resources.resources
+E:\Windows Form Applocations\Labrary Managment\obj\Debug\Labrary Managment.csproj.GenerateResource.cache
+E:\Windows Form Applocations\Labrary Managment\obj\Debug\Labrary Managment.csproj.CoreCompileInputs.cache
+E:\Windows Form Applocations\Labrary Managment\obj\Debug\Labrary Managment.csproj.CopyComplete
+E:\Windows Form Applocations\Labrary Managment\obj\Debug\Labrary Managment.exe
+E:\Windows Form Applocations\Labrary Managment\obj\Debug\Labrary Managment.pdb
+E:\Windows Form Applocations\Labrary Managment\bin\Debug\DataAccessLayer.dll
+E:\Windows Form Applocations\Labrary Managment\bin\Debug\DataAccessLayer.pdb
+E:\Windows Form Applocations\Labrary Managment\obj\Debug\Labrary_Managment.FrmAddCAT.resources
+E:\Windows Form Applocations\Labrary Managment\obj\Debug\Labrary_Managment.AddBooks.resources
+E:\Windows Form Applocations\Labrary Managment\obj\Debug\Labrary_Managment.frmDetails.resources
+E:\Windows Form Applocations\Labrary Managment\obj\Debug\Labrary_Managment.AddStudent.resources
+E:\Windows Form Applocations\Labrary Managment\obj\Debug\Labrary_Managment.BookSell.resources
+E:\Windows Form Applocations\Labrary Managment\obj\Debug\Labrary_Managment.BooksBorrow.resources
+E:\Windows Form Applocations\Labrary Managment\obj\Debug\Labrary_Managment.frmUsers.resources
+E:\Windows Form Applocations\Labrary Managment\obj\Debug\Labrary_Managment.frmLoginScreen.resources
+E:\Windows Form Applocations\Labrary Managment\obj\Debug\Labrary_Managment.frmLoading.resources
+E:\Windows Form Applocations\Labrary Managment\obj\Debug\Labrary_Managment.frmReport.resources
